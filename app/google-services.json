@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392546978322",
+    "project_id": "fir-board-febe2",
+    "storage_bucket": "fir-board-febe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392546978322:android:fc8cef60bce1f1a880a6cb",
+        "android_client_info": {
+          "package_name": "com.example.firebaseboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392546978322-k02ag3gj6j59hhm5pltu7jtl5kintnuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRBjXP_oN2Bw9biWbsF65gy61farrz6HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392546978322-k02ag3gj6j59hhm5pltu7jtl5kintnuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
